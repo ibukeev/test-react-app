@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "testreactappbf0ebd0f": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
